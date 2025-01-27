@@ -6,6 +6,6 @@ public class Wrapper {
         System.out.println(idade);
 
        Integer idadeWrapper = idade;
-        System.out.println(idade);
+        System.out.println(idadeWrapper);
     }
 }
